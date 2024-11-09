@@ -10,21 +10,20 @@
 | 21/1030676  |  Ana Luiza Rodrigues da Silva |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Apresentação da resolução de três problemas da plataforma LeetCode aplicando os conceitos de grafos aprendidos em sala. 
+
+Problemas
+| Código | Nome | Dificuldade |
+| ------------------ | ---------------- | ----------- |
+| 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/) | Médio |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | Difícil |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/) | Difícil |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Linguagem 
+Java
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Basta rodar os códigos na plataforma [LeetCode](https://leetcode.com/).
